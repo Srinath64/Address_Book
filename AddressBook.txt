@@ -1,0 +1,13 @@
+[AddressBook Name: Bridgelabz
+contacts:-[
+ContactData:- 
+FirstName = Srinath
+LastName = S
+Address = Bargur
+City = Krishnagiri
+State = Tamilnadu
+Zip = 635
+PhoneNumber = 217
+Email = sri@gmail.com
+--------------------------
+]]
